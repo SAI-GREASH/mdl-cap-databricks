@@ -1,0 +1,10 @@
+
+# MDL-CAP Databricks deployment configuration
+
+bundle:
+  name: mdl_cap
+
+targets:
+  dev:
+    mode: development
+    default: true
